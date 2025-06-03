@@ -1,5 +1,5 @@
 import React from 'react'
-import ChatboxIcon from './Chatboxicon'
+import ChatboxIcon from './ChatboxIcon';
 
 const ChatMessage = ({chat}) => {
   return (
